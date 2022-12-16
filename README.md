@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudarshan Sharma paudel</h1>
+<h1 align="center">Hi 👋, I'm Sudarshan Sharma Paudel</h1>
 <h3 align="center">A passionate Software developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleduap&label=Profile%20views&color=0e75b6&style=flat" alt="sleduap" /> </p>
