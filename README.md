@@ -36,9 +36,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sleduap"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sleduap" /></a><a href="https://ko-fi.com/sleduap"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sleduap" /></a></p><br><br>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleduap&show_icons=true&locale=en&layout=compact" alt="sleduap" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleduap&show_icons=true&locale=en&layout=compact" alt="sleduap" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleduap&show_icons=true&locale=en" alt="sleduap" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleduap&show_icons=true&locale=en" alt="sleduap" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleduap&" alt="sleduap" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sleduap&" alt="sleduap" /></p>
