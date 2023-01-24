@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleduap" alt="sleduap" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sleduap2053" target="blank"><img src="https://img.shields.io/twitter/follow/sleduap2053?logo=twitter&style=for-the-badge" alt="sleduap2053" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/sleduap2053" target="blank"><img src="https://img.shields.io/twitter/follow/sleduap2053?logo=twitter&style=for-the-badge" alt="sleduap2053" /></a> </p>
+ -->
 - 🔭 I’m currently working as a **Go Developer**
 
 - 🌱 I’m currently learning **ML/AI**
