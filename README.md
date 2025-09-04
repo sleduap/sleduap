@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **ML/AI Projects**
 
-- 💬 Ask me about **Go,Java,Python,Dart**
+- 💬 Ask me about **Go,Java,Python,node(Express Js)**
 
 - 📫 How to reach me **sleduap@gmail.com**
 
